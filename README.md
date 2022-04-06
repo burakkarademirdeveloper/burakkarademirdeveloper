@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @burakkarademirdeveloper
-- 👀 I’m interested in UnityEngine-C# OOP- .NET WORLD
-- 🌱 I’m currently learning UnityEngine-C# OOP- .NET WORLD
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in UnityEngine-C# and JavaScript Frameworks
+- 🌱 I’m currently learning UnityEngine-C# and JavaScript Frameworks
 - 📫 How to reach me: e-mail address => burak.iphone7@icloud.com
 
 <!---
